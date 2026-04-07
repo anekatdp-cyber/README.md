@@ -186,10 +186,3 @@ class Persegi extends Bentuk {
     return sisi * sisi;
   }
 }
-abstract class Pembayaran {
-  void bayar();
-}
-🔷 Sistem Geometri
-abstract class Bentuk {
-  double hitungLuas();
-}
